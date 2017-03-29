@@ -19,7 +19,7 @@ to the driver.  So ... here it is.
     landman@leela:~/work/development/pcilist$ sudo ./pcilist.pl
 
     PCIid   MaxWidth ActWidth MaxSpeed ActSpeed     driver       description
-00:00.0        4        0        5                           Intel Corporation Haswell-E DMI2 (rev 02)
+    00:00.0        4        0        5                           Intel Corporation Haswell-E DMI2 (rev 02)
     00:01.0        8        0        8      2.5         pcieport Intel Corporation Haswell-E PCI Express Root Port 1 (rev 02) (prog-if 00 [Normal decode])
     00:02.0        8        1        8      2.5         pcieport Intel Corporation Haswell-E PCI Express Root Port 2 (rev 02) (prog-if 00 [Normal decode])
     00:02.2        8        8        8        8         pcieport Intel Corporation Haswell-E PCI Express Root Port 2 (rev 02) (prog-if 00 [Normal decode])
